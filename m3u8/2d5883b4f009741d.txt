@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.439889,
+https://img.danews.cc/upload/images/20230929/22191c2350beb60f13ab591b5af6fa4e.jpg
+#EXTINF:0.416667,
+https://img.danews.cc/upload/images/20230929/486d6991a8f6f8e36a6cd1f8eafb6a04.jpg
+#EXT-X-ENDLIST
